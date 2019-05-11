@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.7.3)
+  - EVReflection/Alamofire (5.6.2):
+    - Alamofire
+    - EVReflection/Core
+  - EVReflection/Core (5.6.2)
+  - Kingfisher (5.0.1)
+  - Serrata (1.0.10):
+    - Kingfisher
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - EVReflection/Alamofire
+  - Serrata
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EVReflection
+    - Kingfisher
+    - Serrata
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  EVReflection: 640322f8a3aaf78cbc3c23892476b6adb636ebf0
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  Serrata: cfaf2a46ddfa89b202685983246e9c1da68b595b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 6decac6a43677944d73c57547973fc92aca8b88c
+
+COCOAPODS: 1.5.3
